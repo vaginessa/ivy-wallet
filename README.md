@@ -162,3 +162,5 @@ Folks that helped Ivy Wallet in a non-dev creative ways that can't be captured o
 This community-developed project allows users to conveniently access Ivy Wallet through their **web browsers**, ensuring a smooth experience across multiple platforms.
 - [GitHub URL](https://github.com/pratikkabade/ivy-wallet-web)
 - [Web app URL](https://ivy-wallet-web.vercel.app/)
+
+  
